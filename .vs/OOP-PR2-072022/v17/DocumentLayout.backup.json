@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tarik\\Desktop\\OOP-PR2-072022\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F850367-706A-43D9-8350-C9932B85B003}|OOP-PR2-072022.vcxproj|C:\\Users\\Tarik\\Desktop\\OOP-PR2-072022\\OOP-PR2-072022.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7F850367-706A-43D9-8350-C9932B85B003}|OOP-PR2-072022.vcxproj|solutionrelative:OOP-PR2-072022.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OOP-PR2-072022.cpp",
+              "DocumentMoniker": "C:\\Users\\Tarik\\Desktop\\OOP-PR2-072022\\OOP-PR2-072022.cpp",
+              "RelativeDocumentMoniker": "OOP-PR2-072022.cpp",
+              "ToolTip": "C:\\Users\\Tarik\\Desktop\\OOP-PR2-072022\\OOP-PR2-072022.cpp*",
+              "RelativeToolTip": "OOP-PR2-072022.cpp*",
+              "ViewState": "AgIAACECAAAAAAAAAAAAAEECAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-15T13:34:16.342Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

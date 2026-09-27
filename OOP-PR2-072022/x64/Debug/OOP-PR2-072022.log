@@ -1,0 +1,21 @@
+﻿  OOP-PR2-072022.cpp
+C:\Users\Tarik\Desktop\OOP-PR2-072022\OOP-PR2-072022.cpp(40,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tarik\Desktop\OOP-PR2-072022\OOP-PR2-072022.cpp(48,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tarik\Desktop\OOP-PR2-072022\OOP-PR2-072022.cpp(263,43): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tarik\Desktop\OOP-PR2-072022\OOP-PR2-072022.cpp(278,48): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tarik\Desktop\OOP-PR2-072022\OOP-PR2-072022.cpp(279,42): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tarik\Desktop\OOP-PR2-072022\OOP-PR2-072022.cpp(290,50): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tarik\Desktop\OOP-PR2-072022\OOP-PR2-072022.cpp(397,52): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tarik\Desktop\OOP-PR2-072022\OOP-PR2-072022.cpp(447,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Tarik\Desktop\OOP-PR2-072022\OOP-PR2-072022.cpp(123,28): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+      C:\Users\Tarik\Desktop\OOP-PR2-072022\OOP-PR2-072022.cpp(123,28):
+      the template instantiation context (the oldest one first) is
+          C:\Users\Tarik\Desktop\OOP-PR2-072022\OOP-PR2-072022.cpp(464,22):
+          see reference to class template instantiation 'Kolekcija<int,int>' being compiled
+          C:\Users\Tarik\Desktop\OOP-PR2-072022\OOP-PR2-072022.cpp(121,18):
+          while compiling friend function 'std::ostream &operator <<(std::ostream &,const Kolekcija<int,int> &)'
+              C:\Users\Tarik\Desktop\OOP-PR2-072022\OOP-PR2-072022.cpp(467,21):
+              see the first reference to 'operator <<' in 'main'
+  
+C:\Users\Tarik\Desktop\OOP-PR2-072022\OOP-PR2-072022.cpp(123,57): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  OOP-PR2-072022.vcxproj -> C:\Users\Tarik\Desktop\OOP-PR2-072022\x64\Debug\OOP-PR2-072022.exe
